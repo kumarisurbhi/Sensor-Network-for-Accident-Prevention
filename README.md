@@ -7,6 +7,8 @@ Built a sensor network to prevent accident using LoRaWAN. A device first detects
 Libraries used:
 - [LoRa](https://github.com/sandeepmistry/arduino-LoRa)
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
+- [ESP8266WiFi](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
+- [FirebaseArduino](https://github.com/FirebaseExtended/firebase-arduino)
 
 ### Prototype built
 
