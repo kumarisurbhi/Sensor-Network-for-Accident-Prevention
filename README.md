@@ -2,6 +2,8 @@
 
 Built a sensor network to prevent accident using LoRaWAN. A device first detects the factors that leads to accident such as drowsiness, steering deviation (lane deviation) and then using LoRa protocol, alert is sent to the nearby vehicle drivers as well as the vehicle driver who might get hit.
 
+![Screenshot 2020-04-14 at 12 36 27 AM](https://user-images.githubusercontent.com/37478445/79151636-68a8d080-7de8-11ea-8866-04f8c72fab7a.png)
+
 ## Dependencies
 
 Libraries used:
